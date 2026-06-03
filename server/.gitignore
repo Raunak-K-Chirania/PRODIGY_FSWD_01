@@ -1,2 +1,7 @@
+#Secret
 .env
+
+#dependencies
+node_modules
+package.json
 
