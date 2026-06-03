@@ -2,6 +2,6 @@
 .env
 
 #dependencies
-node_modules
-package.json
+node_modules/
+dist/
 
